@@ -6,6 +6,9 @@ const express = require('express');
 const ejs = require('ejs');
 var path = require('path')
 ```
+```terminal
+node app.js
+```
 ### Background
 사업자의 입장에서 마케팅은 필수적입니다. 특히, 코로나 시대에 온라인 마케팅은 매우 중요하다고 할 수 있습니다. 사람들은 검색엔진에서 키워드를 검색하여 정보를 수집합니다. 사람들이 특정 물품을 구매하려고 할 때, 많이 검색하는 키워드를 알면 그 물품에 대한 정보를 많이 노출시킬 수 있어 광고효과가 매우 좋습니다. 사업자의 관점에서 특정 물품에 대한 연관키워드 추출 및 분석할 수 있는 프로그램 개발이 필요하다고 생각했습니다.
 ### Development & Result
